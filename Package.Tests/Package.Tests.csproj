@@ -43,8 +43,8 @@
     <Reference Include="FakeItEasy, Version=5.0.0.0, Culture=neutral, PublicKeyToken=eff28e2146d5fd2c, processorArchitecture=MSIL">
       <HintPath>..\packages\FakeItEasy.5.1.1\lib\net45\FakeItEasy.dll</HintPath>
     </Reference>
-    <Reference Include="LibPackage, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\LibPackage.2.0.0\lib\net461\LibPackage.dll</HintPath>
+    <Reference Include="LibPackage, Version=3.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\LibPackage.3.0.0\lib\net461\LibPackage.dll</HintPath>
     </Reference>
     <Reference Include="MainPackage, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\MainPackage.2.0.0\lib\net461\MainPackage.dll</HintPath>
